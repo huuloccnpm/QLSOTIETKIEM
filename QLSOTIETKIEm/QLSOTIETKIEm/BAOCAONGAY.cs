@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace QLSOTIETKIEm
 {
-    public partial class frmLogin : Form
+    public partial class BAOCAONGAY : Form
     {
-        public frmLogin()
+        public BAOCAONGAY()
         {
             InitializeComponent();
         }
