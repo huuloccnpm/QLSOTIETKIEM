@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QLSOTIETKIEm
 {
-    public partial class Form1 : Form
+    public partial class PHIEURUTTIEN : Form
     {
-        public Form1()
+        public PHIEURUTTIEN()
         {
             InitializeComponent();
         }
