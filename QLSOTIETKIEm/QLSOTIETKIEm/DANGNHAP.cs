@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace QLSOTIETKIEm
 {
-    public partial class QUYDINH : Form
+    public partial class DANGNHAP : Form
     {
-        public QUYDINH()
+        public DANGNHAP()
         {
             InitializeComponent();
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

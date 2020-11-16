@@ -58,11 +58,35 @@
     <Compile Include="BAOCAONGAY.Designer.cs">
       <DependentUpon>BAOCAONGAY.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="DANGNHAP.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="DANGNHAP.Designer.cs">
+      <DependentUpon>DANGNHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PHIEUGOITIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PHIEUGOITIEN.Designer.cs">
+      <DependentUpon>PHIEUGOITIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PHIEURUTTIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PHIEURUTTIEN.Designer.cs">
+      <DependentUpon>PHIEURUTTIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QUYDINH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QUYDINH.Designer.cs">
+      <DependentUpon>QUYDINH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SOTIETKIEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SOTIETKIEM.Designer.cs">
+      <DependentUpon>SOTIETKIEM.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -72,8 +96,20 @@
     <EmbeddedResource Include="BAOCAONGAY.resx">
       <DependentUpon>BAOCAONGAY.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="DANGNHAP.resx">
+      <DependentUpon>DANGNHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PHIEUGOITIEN.resx">
+      <DependentUpon>PHIEUGOITIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PHIEURUTTIEN.resx">
+      <DependentUpon>PHIEURUTTIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QUYDINH.resx">
+      <DependentUpon>QUYDINH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SOTIETKIEM.resx">
+      <DependentUpon>SOTIETKIEM.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
